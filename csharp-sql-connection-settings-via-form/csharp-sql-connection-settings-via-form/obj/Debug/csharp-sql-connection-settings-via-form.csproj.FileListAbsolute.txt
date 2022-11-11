@@ -1,0 +1,13 @@
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp-sql-connection-settings-via-form.csproj.AssemblyReference.cache
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp_sql_connection_settings_via_form.Form1.resources
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp_sql_connection_settings_via_form.Properties.Resources.resources
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp-sql-connection-settings-via-form.csproj.GenerateResource.cache
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp-sql-connection-settings-via-form.csproj.CoreCompileInputs.cache
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\bin\Debug\csharp-sql-connection-settings-via-form.exe.config
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\bin\Debug\csharp-sql-connection-settings-via-form.exe
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\bin\Debug\csharp-sql-connection-settings-via-form.pdb
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp-sql-connection-settings-via-form.csproj.CopyComplete
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp-sql-connection-settings-via-form.exe
+C:\Users\bolatfer\source\repos\csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form\obj\Debug\csharp-sql-connection-settings-via-form.pdb

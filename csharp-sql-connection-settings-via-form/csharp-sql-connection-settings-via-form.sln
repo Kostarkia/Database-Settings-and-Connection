@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-sql-connection-settings-via-form", "csharp-sql-connection-settings-via-form\csharp-sql-connection-settings-via-form.csproj", "{247D4946-A3C3-42E5-8297-8EAC70150225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247D4946-A3C3-42E5-8297-8EAC70150225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247D4946-A3C3-42E5-8297-8EAC70150225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247D4946-A3C3-42E5-8297-8EAC70150225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247D4946-A3C3-42E5-8297-8EAC70150225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {388C0EF2-5AD7-4E0D-B8DE-4517202E040C}
+	EndGlobalSection
+EndGlobal
